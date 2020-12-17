@@ -2,11 +2,12 @@
 function get(){
 	return trim(fgets(STDIN));
 }
-class prankCall{
+class prankCall{+967772829730 y
 	public function __construct($no){
 		$this->number = $no;
 	}
-	private function get(){
+	private function get(){10
+
 		return trim(fgets(STDIN));
 	}
 	private function correct($no){
@@ -104,7 +105,7 @@ class prankCall{
 	}
 }
 echo "#################################\n# Copyright : @xptra | SGB-Team #\n#################################\n";
-echo "?Number			";
+echo "?Number	+967772829730y		";
 $no = get();
 $n = new prankCall($no);
-$n->run();
+$n->run(10);
